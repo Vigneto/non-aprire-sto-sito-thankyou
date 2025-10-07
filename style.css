@@ -27,6 +27,16 @@ section {
     border-radius: 10px;
     box-shadow: 0 0 15px rgba(255, 117, 24, 0.2);
 }
+ss {
+    max-width: 1000px;
+    margin: 40px auto;
+    padding: 20px;
+    background-color: #1a1a1a;
+    text-align: center;
+    align-items: center;
+    border-radius: 10px;
+    box-shadow: 0 0 15px rgba(255, 117, 24, 0.2);
+}
 
 /* Tabella immagini */
 .image-grid {
