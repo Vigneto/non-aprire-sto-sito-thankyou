@@ -1,0 +1,40 @@
+/* style.css */
+
+/* Stile generale della pagina */
+body {
+    margin: 0;
+    padding: 0;
+    background-color: #0d0d0d; /* quasi nero */
+    color: #f5f5f5;
+    font-family: "Poppins", Arial, sans-serif;
+}
+
+/* Titolo principale */
+h1 {
+    color: #ff7518; /* arancione zucca Halloween */
+    text-align: center;
+    font-size: 3rem;
+    margin-top: 50px;
+    text-shadow: 2px 2px 10px rgba(255, 117, 24, 0.7);
+}
+
+/* Link e menu */
+a {
+    color: #ff7518;
+    text-decoration: none;
+    transition: color 0.3s;
+}
+
+a:hover {
+    color: #ffaa66;
+}
+
+/* Esempio di sezione */
+section {
+    max-width: 800px;
+    margin: 40px auto;
+    padding: 20px;
+    background-color: #1a1a1a;
+    border-radius: 10px;
+    box-shadow: 0 0 15px rgba(255, 117, 24, 0.2);
+}
